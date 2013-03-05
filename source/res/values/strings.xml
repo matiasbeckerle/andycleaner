@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndyCleaner</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="clean">Clean</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="returnword">Return</string>
+    <string name="about_version">AndyCleaner 1.0</string>
+    <string name="about_description">Just another cleaner app, made just for fun. No useless things, no ads, no bullshit.</string>
+    <string name="about_copyright">Developed by <a href="http://matias.beckerle.com.ar">Matias Beckerle</a>. Amazing kick-ass icon by <a href="http://warriordandriel.deviantart.com">Emiliano Leonel D\'Andrea</a>.</string>
+    <string name="alert_delete_all">Delete all?</string>
+
+</resources>

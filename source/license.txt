@@ -1,0 +1,4 @@
+AndyCleaner
+
+Copyright 2013 by Matias Beckerle and Emiliano Leonel D'Andrea.
+Licensed under GNU GPL v2.
