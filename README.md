@@ -8,7 +8,7 @@ Developed by Matias Beckerle. Amazing kick-ass icon by Emiliano Leonel D'Andrea.
 
 ## Acknowledgements
 
-Danddroid.
+Dandroid.
 
 ## Changelog
 
