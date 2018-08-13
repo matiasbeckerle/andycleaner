@@ -2,6 +2,8 @@
 
 Developed by **Matias Beckerle**. Amazing kick-ass icon by **Emiliano Leonel D'Andrea**.
 
+Fun project to learn the basics of Android.
+
 Licensed under GNU GPL v2.
 
 Just another cleaner app, made just for fun. No useless things, no ads, no bullshit.
